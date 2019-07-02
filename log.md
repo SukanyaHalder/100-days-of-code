@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 1, 2019 (Example 1)
+### Day 1: July 1, 2019
 
 **Today's Progress**: Small project Shakespeare's thoughts implementing bootstrap typography classes
 
 **Thoughts:** Day 1 progress is small but I'm satisfied as I'm learning even if it is too little
 
-### Day 2: July 2, 2019 (Example 1)
+### Day 2: July 2, 2019
 
 **Today's Progress**: Small project implementing Keat's poem to understand bootstrap text alignments
 
