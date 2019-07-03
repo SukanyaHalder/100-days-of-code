@@ -11,3 +11,9 @@
 **Today's Progress**: Small project implementing Keat's poem to understand bootstrap text alignments
 
 **Thoughts**: It is quiet late but I made my mind to take out one hour no matter what. Quickly finished my peding tasks from office and here I am at the brink of end of the day to write my comments and update my progress. Taking baby steps towards learning bootstrap.
+
+### Day 3: July 3, 2019
+
+**Today's Progress**: Small project on Virginia Woolf to understand bootstrap floats and positions
+
+**Thoughts**: I started early today so that I don't find myself on the last minutes of the day end to commit my code. Today I implemented floats and position classes of bootstrap by creating a page on Virginia Woolf's biography. Taking baby steps towards learning bootstrap. I am happy with my progress.
