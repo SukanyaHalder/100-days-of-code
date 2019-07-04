@@ -17,3 +17,9 @@
 **Today's Progress**: Small project on Virginia Woolf to understand bootstrap floats and positions
 
 **Thoughts**: I started early today so that I don't find myself on the last minutes of the day end to commit my code. Today I implemented floats and position classes of bootstrap by creating a page on Virginia Woolf's biography. Taking baby steps towards learning bootstrap. I am happy with my progress.
+
+### Day 4: July 4, 2019
+
+**Today's Progress**: Learnt about Bootstrap Jumbotron, Button Classes and Grid System
+
+**Thoughts**: Today was really very tight. Adding this comment on last minute of the day!
